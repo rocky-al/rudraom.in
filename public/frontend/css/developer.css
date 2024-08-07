@@ -1,0 +1,18 @@
+.error{
+
+    border: 1px solid #d37171 !important;
+}
+label.error {
+    border: medium none !important;
+    color: #d37171 !important;font-size:12px;
+
+}
+label.error::before{
+    border:none !important;
+
+    content: none;}
+#files-error {
+    left: 59px;
+    position: absolute;
+    top: 31px;
+}

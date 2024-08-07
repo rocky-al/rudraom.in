@@ -1,0 +1,31 @@
+
+
+  @font-face {
+    font-family: 'futura_ptbook';
+    src: url('../fonts/futurapt-book-webfont.woff2') format('woff2'),
+         url('../fonts/futurapt-book-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+  
+  
+  
+  body {overflow-x: hidden;}
+    /*== Important Css ==*/
+  
+  body, html {font-family: 'futura_ptbook';float:left;width:100%;color:#fff;}
+  a{text-decoration:none !important;}
+  .full {width:100%;float:left;}
+  ul{margin:0;padding:0;}
+  li{list-style:none;}
+  img{max-width:100% !important;}
+  
+  h1{color:#fff;font-size:40px;font-weight:bold;margin-bottom:0;}
+  h2{color:#fff;font-size:30px;font-weight:600;margin-bottom:0;}
+  h3{color:#fff;font-size:30px;font-weight:600;margin-bottom:0;line-height:44px;}
+
+  p{color:#fff;font-size:26px;line-height:40px;}
+
+.logo{text-align:center;margin-top:15px;}
+.logo img{max-width:50% !important;margin:0 auto;}
